@@ -1,0 +1,55 @@
+{
+  "name": "agus-kopling",
+  "version": "1.0.0",
+  "description": "Jual Beli All Variant Kopling",
+  "main": "index.js",
+  "scripts": {
+    "test": "agus"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uhuhana/Agus-Kopling.git"
+  },
+  "keywords": [
+    "aguskopling"
+  ],
+  "author": "uhuhana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uhuhana/Agus-Kopling/issues"
+  },
+  "homepage": "https://github.com/uhuhana/Agus-Kopling#readme",
+  "dependencies": {
+    "abbeeytea": "^1.1.6",
+    "airynotes": "^1.1.5",
+    "astralamber": "^1.1.2",
+    "bey0tea": "^1.1.41",
+    "beypremajg": "^1.1.4",
+    "beypremtea": "^1.1.5",
+    "beypremtea1": "^1.1.4",
+    "calender-nifty": "^1.1.6",
+    "celestialciphercd": "^1.1.2",
+    "ciphersage": "^1.1.2",
+    "compaspetter": "^1.1.5",
+    "cosmicchorus": "^1.1.2",
+    "desateatertinggal45": "^1.1.4",
+    "exa2tea": "^1.1.4",
+    "kuymad69tea": "^1.1.4",
+    "last-notes": "^1.1.4",
+    "luminouslab": "^1.1.2",
+    "lunarloom": "^1.1.2",
+    "naraonline": "^1.1.6",
+    "nebulanomad": "^1.1.2",
+    "neonnebulay": "^1.1.2",
+    "pinsapod": "^1.1.5",
+    "prayudha378": "^1.1.3",
+    "quasarquest": "^1.1.2",
+    "queencrow": "^1.1.5",
+    "stellarscribe": "^1.1.2",
+    "systemofdown": "^1.1.6",
+    "tea_fahmisugeng13": "^1.1.4",
+    "teabrutu": "^1.1.4",
+    "vividvortex": "^1.1.2",
+    "yudhakuy420": "^1.1.4"
+  }
+}
